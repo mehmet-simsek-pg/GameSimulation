@@ -51,5 +51,6 @@ public class Game {
 
     public void setCampaign(Campaign campaign) {
         this.campaign = campaign;
+        System.out.println("kjsdfksjdfhvksjd");
     }
 }
